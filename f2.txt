@@ -1,1 +1,2 @@
 secondchanged 
+git pull does git fetch and git merge
